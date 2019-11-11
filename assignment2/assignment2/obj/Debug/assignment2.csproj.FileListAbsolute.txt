@@ -1,0 +1,5 @@
+/Users/naqeebnoori/Projects/assignment2/assignment2/bin/Debug/assignment2.exe
+/Users/naqeebnoori/Projects/assignment2/assignment2/bin/Debug/assignment2.pdb
+/Users/naqeebnoori/Projects/assignment2/assignment2/obj/Debug/assignment2.csprojAssemblyReference.cache
+/Users/naqeebnoori/Projects/assignment2/assignment2/obj/Debug/assignment2.exe
+/Users/naqeebnoori/Projects/assignment2/assignment2/obj/Debug/assignment2.pdb
